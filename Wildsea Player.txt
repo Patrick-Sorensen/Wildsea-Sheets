@@ -1,0 +1,3 @@
+<div class="player-container">
+	<h1 class="game-title">Wildsea</h1>
+</div>
