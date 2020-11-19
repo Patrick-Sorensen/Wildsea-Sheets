@@ -1,0 +1,27 @@
+.sheet-player-container {
+	background-color: white;
+	font-family: impact;
+	width: 250px;
+}
+
+.sheet-game-title {
+	font-size: 3em;
+	margin: 10px;
+	padding-top: 10px;
+}
+
+.sheet-name-container {
+  margin: 10px;
+}
+
+.sheet-bloodline-container {
+  margin: 10px;
+}
+
+.sheet-origin-container {
+  margin: 10px;
+}
+
+.sheet-post-container {
+  margin: 10px;
+}
