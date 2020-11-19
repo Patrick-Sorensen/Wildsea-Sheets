@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  body {
+    background-color: Gainsboro;
+  }
+  /* subject to change, perhaps an image? */
+  h1 {
+    color: black;
+    text-align: center;
+    }
+  pre {
+      font-family: veranda;
+      font-size: 20px;
+      background-color: white;
+      border: 2px solid black;
+      border-radius: 5px;
+    }
+  #secondary {
+   	font-size: 16px;
+    }
+/* don't know why that secondary be grey tho */
+  </style>
+</head>
+<body>
+<!-- CSS stuff is above, just doing some work here -->
+<h1>Wildsea</h1>
+<pre>
+ <b>Name</b>        ________________
+<p id="secondary"><b>Background</b>   ____________________</p>
+_______________________________
+_______________________________
+ </pre>
+<!-- needs to be higher/more flush with above heading -->
+</body>
+</html>
